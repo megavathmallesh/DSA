@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/megavathmallesh/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/megavathmallesh/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3903-smallest-stable-index-i](https://github.com/megavathmallesh/DSA/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/megavathmallesh/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Math
 |  |
 | ------- |
@@ -98,4 +99,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/megavathmallesh/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [3903-smallest-stable-index-i](https://github.com/megavathmallesh/DSA/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/megavathmallesh/DSA/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
