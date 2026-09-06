@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/megavathmallesh/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0115-distinct-subsequences](https://github.com/megavathmallesh/DSA/tree/master/0115-distinct-subsequences) |
 ## String Matching
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/megavathmallesh/DSA/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/megavathmallesh/DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/megavathmallesh/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
 |  |
